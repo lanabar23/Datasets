@@ -1,3 +1,3 @@
 # Datasets
 
-There is a repository with datasets of my projects
+This is a repository with datasets of my projects
